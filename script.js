@@ -136,3 +136,7 @@ else if (player1.checkPos() >= 100) {
     console.log(`${player2.getPlayerName()} HA GANADO!`) 
 }
 
+/*
+
+Se pueden usar vectores y revisar cuánto aumenta o disminuye dependiendo de en
+qué posición está el jugador, cuando no hay nada colocar 0 en esa posición */
